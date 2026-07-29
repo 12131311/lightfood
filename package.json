@@ -1,0 +1,1 @@
+{"name":"weight-app","private":true,"dependencies":{"express":"4.18.2","localtunnel":"^2.0.2","vercel":"^58.0.0"}}
